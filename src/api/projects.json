@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Catatan App",
+    "url": "https://catatan-app.herokuapp.com",
+    "github": "https://github.com/iqdmsyd/catatan",
+    "lastUpdated": "01-04-2021",
+    "description": "Simple note application created using MERN stack. You can sign up an account, create notes, and manage them.",
+    "libs": ["mongodb", "express.js", "react.js", "node.js"],
+    "img": "/catatan.png"
+  },
+  {
+    "title": "Pokedex Tokopedia",
+    "url": "https://pokedextokped.netlify.app/",
+    "github": "https://github.com/iqdmsyd/pokepollo/tree/master",
+    "lastUpdated": "01-24-2021",
+    "description": "A mini project as part of Tokopedia's recruitment flow. Created using Tokopedia's current techstack such as Apollo Client and Emotion.",
+    "libs": ["react.js", "emotion.js", "react-router", "apollo-client"],
+    "img": "/pokedex.png"
+  },
+  {
+    "title": "Pekepollo",
+    "url": "https://pokepollo.netlify.app",
+    "github": "https://github.com/iqdmsyd/pokepollo/tree/new_branch",
+    "lastUpdated": "03-14-2021",
+    "description": "Design overhaul of previous project (Tokopedia). The UI was rebuild using Material-UI and hell that was a great choice. Please visit the app.",
+    "libs": ["react.js", "material-ui", "react-router", "apollo-client"],
+    "img": "/pokepollo.png"
+  }
+]

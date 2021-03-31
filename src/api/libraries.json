@@ -1,0 +1,44 @@
+[
+  {
+    "name": "React",
+    "repos": "facebook/react",
+    "url": "http://www.github.com/facebook/react",
+    "icon": "/react.png"
+  },
+  {
+    "name": "Material UI",
+    "repos": "mui.org/material-ui",
+    "url": "http://www.github.com/mui-org/material-ui",
+    "icon": "/mui.png"
+  },
+  {
+    "name": "React Router",
+    "repos": "ReactTraining/react-router",
+    "url": "https://github.com/ReactTraining/react-router",
+    "icon": "/react-router.png"
+  },
+  {
+    "name": "styled-components",
+    "repos": "styled-components",
+    "url": "https://github.com/styled-components/styled-components",
+    "icon": "/styled-components.png"
+  },
+  {
+    "name": "Apollo Client",
+    "repos": "apollographql/apollo-client",
+    "url": "https://github.com/apollographql/apollo-client",
+    "icon": "/apollo-client.png"
+  },
+  {
+    "name": "Express",
+    "repos": "expressjs/express",
+    "url": "https://github.com/expressjs/express",
+    "icon": "/express.png"
+  },
+  {
+    "name": "MongoDB",
+    "repos": "mongoDB",
+    "url": "https://www.mongodb.com/",
+    "icon": "/mongodb.png"
+  }
+]
