@@ -1,3 +1,3 @@
 My portofilio site.
 
-iqdam.netlify.app
+https://iqdam.netlify.app/
